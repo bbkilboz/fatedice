@@ -3,4 +3,4 @@ A simple Fate RPG dice roller originally made by [matita](https://github.com/mat
 
 I modified the background to make it easier for streamers to use it on OBS with Chromakey
 
-Go to bbkilboz.github.io/fatedice to test!
+Go to [bbkilboz.github.io/fatedice](bbkilboz.github.io/fatedice) to test!
